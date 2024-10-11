@@ -1,3 +1,3 @@
 module github.com/crazywall12/mymath
 
-go 1.22.2
+go 1.19
